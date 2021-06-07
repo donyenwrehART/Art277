@@ -1,0 +1,16 @@
+h1 {
+  font-size: 24;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  line-height: 170%;
+}
+p img {
+  padding: 0 10px 0 0;
+  width: 240px;
+  height: 390px;
+  float: left;
+}

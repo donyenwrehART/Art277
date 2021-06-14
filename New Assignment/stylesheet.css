@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cornsilk;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
+  line-height: 28px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.man {
+  width: 25%;
+  float: left;
+  padding-right: 10px;
+}
+
+h1 {
+  color: rgb(2, 2, 20);
+  text-transform: uppercase;
+  font-weight: 350;
+  margin-bottom: 2px;
+}
+
+nav {
+  background-color: rgb(2, 2, 20);
+  height: 3.5rem;
+  color: white;
+  padding-top: 0.75rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 13px;
+  text-align: center;
+  border-right: 1px;
+  min-width: 80px;
+}
+
+nav a:hover {
+  background-color: rgb(168, 50, 70);
+}
+
+.banner {
+  width: 100%;
+}
+
+.section_two img {
+  width: 30%;
+  height: 290px;
+  float: right;
+  padding-left: 10px;
+}
+
+.footer {
+  background-color: rgb(2, 2, 20);
+  height: 4rem;
+  color: white;
+  padding: 3px;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.line {
+  margin-top: 1px;
+  border-top: dimgray;
+}
+
+.about {
+  background-color: rgb(20, 18, 18);
+  height: 8rem;
+  color: white;
+  padding-top: 3rem;
+  margin-top: 0px;
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h3 {
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+}
